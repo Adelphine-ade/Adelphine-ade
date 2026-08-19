@@ -8,7 +8,7 @@ I am developing my skills in **software development, database management, progra
 
 ## 💻 Technical Skills
 
-* **Programming:** C#, Java
+* **Programming:** C#, Java,c++
 * **Web Development:** HTML, CSS
 * **Database:** MySQL
 * **Tools:** Visual Studio, IntelliJ IDEA, VS Code, Git, GitHub
